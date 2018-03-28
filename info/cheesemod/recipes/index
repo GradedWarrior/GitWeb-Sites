@@ -1,0 +1,27 @@
+§l§6CheeseMod§r - §l§6Recipes
+
+§l§cNOTE§r: Any furnace recipe in the game both vanilla and modded can be
+done in the grill using "§lSmelting Oil§r"!
+
+§l§1Recipes§r for §l§1Grill§r - Blocks:
+ + Grilled §l§6Cheese§r Block = Grilling Oil + §l§6Cheese§r Block
+ + Grilled §l§6Cheese§r Stairs = Grilling Oil + §l§6Cheese§r Stairs
+ + Grilled §l§6Cheese§r Slab = Grilling Oil + §l§6Cheese§r Slab
+
+§l§1Recipes§r for §l§1Grill§r - Items:
+ + Cooked Bacon = Grilling Oil + Raw Bacon
+ 
+ + Grilled §l§6Cheese§r Toastie = Grilling Oil + §l§6Cheese§r Toastie
+ + Grilled Ham Raw N' §l§6Cheese§r Toastie = Grilling Oil + Ham Raw N' §l§6Cheese§r Toastie
+ + Grilled Ham Cooked N' §l§6Cheese§r Toastie = Grilling Oil + Ham Cooked N' §l§6Cheese§r Toastie
+ 
+ + Grilled §l§6Cheese§r N' Cracker = Grilling Oil + §l§6Cheese§r N' Cracker
+ + Grilled §l§6Cheese§r N' §l§cCrayfish§r Cracker = Grilling Oil + §l§6Cheese§r N' §l§cCrayfish§r Cracker
+ 
+ + Cooked §l§6Cheese§r Pizza = Grilling Oil + Uncooked §l§6Cheese§r Pizza
+ + Cooked Ham N' §l§6Cheese§r Pizza = Grilling Oil + Uncooked Ham N' §l§6Cheese§r Pizza
+ + Cooked Ham Pineapple N' §l§6Cheese§r Pizza = Grilling Oil + Uncooked Ham Pineapple N' §l§6Cheese§r Pizza
+
+§l§1Recipes§r for §l§1Cracker Maker§r:
+ + Plain Cracker = Flour + Salt + Sugar + Water Bucket
+ + Crayfish Cracker = Plain Cracker + Salt + Salt + Fish (Any)
