@@ -9,4 +9,4 @@ text= dwdqwijqwdndnjdqdwdqwijqwdndnjdqdwdqwijqwdndnjdqdwdqwijqwdndnjdqdwdqwijqwd
 #download
 
 app=cdm.note_stash
-data=null
+data={title:"Testing", content:"Todo list: be a good boy"} 
